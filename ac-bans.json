@@ -1,2 +1,12 @@
 {
+  "test": {
+        "steam": "steam:/",
+        "ID": 0,
+        "reason": "",
+        "license": "license2:/",
+        "live": "xbl:/",
+        "discord": "discord:/",
+        "ip": "NONE SUPPLIED",
+        "xbl": "xbl:/"
+    }
 }
