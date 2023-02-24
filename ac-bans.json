@@ -1,11 +1,11 @@
 {
-  "test": {
+  "baca": {
         "steam": "steam:/",
-        "ID": 0,
-        "reason": "",
-        "license": "license2:/",
+        "ID": 1,
+        "reason": "Spawning blacklisted weapon: AP_Pistol",
+        "license": "license2:16373412a9d5336f21a2d3f1e07c1275b7a9ec80",
         "live": "xbl:/",
-        "discord": "discord:/",
+        "discord": "discord:549492472099635210",
         "ip": "NONE SUPPLIED",
         "xbl": "xbl:/"
     }
